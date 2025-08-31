@@ -1,4 +1,8 @@
-## Concurrent detection of swine-origin H1N1 Influenza A virus in pigs and a farmer in Switzerland 
+### Submission of code and data for the publication:
+
+-----------------------------------------------------------------------------------------------
+
+### Concurrent detection of swine-origin H1N1 Influenza A virus in pigs and a farmer in Switzerland 
 
 ### Authors 
 
