@@ -1,0 +1,7 @@
+sample	host
+A0001	swine
+A0002	swine
+A0003	swine
+A0004	swine
+A0005	swine
+H0001	human

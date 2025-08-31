@@ -27,7 +27,6 @@ tickfont=12
 leftmost_axes = []
 cols = 3  
 
-# path='/storage/homefs/mm23m894/MCID_Mike_Analysis/Swine_Analysis/Zoonosis/irma_cov'
 #SET PATHS
 # Path to the directory containing coverage data files
 # CURRDIR=os.getcwd() #CALLING THE SCRIPT AS A PYTHON MODULE HENCE USES CURRENT DIRECTORY
