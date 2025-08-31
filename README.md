@@ -11,7 +11,7 @@ Jonas Steiner1, 4, 5 *, Mike Mwanga2, 3, 4, 5, 6 *, Larise Oberholster3, 4, Matt
 
 ### Affiliations 
 
-1 Clinic for Swine, Department of Clinical Veterinary Medicine, Vetsuisse Faculty, University of Bern, Bern, Switzerland 
+^1 Clinic for Swine, Department of Clinical Veterinary Medicine, Vetsuisse Faculty, University of Bern, Bern, Switzerland 
 
 2 Institute of Virology and Immunology (IVI), Bern and Mittelhäusern, Bern, Switzerland 
 
