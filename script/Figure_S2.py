@@ -37,8 +37,9 @@ tickfont=22
 textsize=16
 textcolor='black'
 
-color_discrete_map={'A0001':"#652e2f",'A0002':'#984547','A0003':'#a94d4f','A0004':'#c28283',
-                'A0005':'#dcb7b8','H0001':"#0745f0"}
+color_discrete_map={'H0001':"#686ae7",'A0001':"#913c0b",'A0002':'#b24a0e',
+                'A0003':'#e55f12','A0004':'#ff8742','A0005':'#ffb489'}
+
 figure = px.line(coverage_df, x='Position', y='Coverage (log10)', 
                  color='sample_name',facet_col='gene', facet_col_wrap=4,
                  category_orders={'sample_name':['A0001','A0002','A0003','A0004','A0005','H0001']},
